@@ -1,0 +1,101 @@
+
+body {
+    margin: 0;
+    font-family: "PT Sans";
+    }
+
+    .navbar {
+        padding: 10px;
+            overflow: hidden;
+            display: flex;
+            align-items: center;
+            justify-content:space-around;
+    }
+        .navbar a {
+            float:inline-start;
+            color: #000000;
+            text-align: center;
+            padding: 100px;
+        text-decoration: none;
+                font-size: 24px;
+    }
+    .navbar a:hover {
+        background-color: #ddd;
+        color: black;
+        padding: 100px 100px;
+    }
+    .
+    .ourmission {
+        margin: 50px;
+        padding: 100px;
+        display: flex;
+        justify-content: center;
+    }
+    
+    .extraBottom {
+        line-height: 30px;
+        padding-left: 100px;
+        font-family: "Gazpacho";
+        font-size: 84px;
+        font-weight: 700;
+        position: relative;
+        top: -50px;
+    }
+
+    .extraTop {
+       padding-top: 80px;
+       padding-left: 100px;
+        width: 415px;
+        font-family: "PT Sans";
+        font-size: 36px;
+        font-weight: 100;
+        line-height: 47px;
+        position: relative;
+        top: -100px;
+    }
+
+
+    .tiger {
+        padding: 100px;
+        display: flex;
+        justify-content: flex-end;
+        position: relative;
+        top: -670px;
+    }
+
+    .button {
+        position: relative;
+        margin-left: 100px;
+        top: -850px;
+        padding-left: 118px;
+        padding-right: 118px;
+        padding-top: 39px;
+        padding-bottom: 39px;
+        font-family: "PT Sans";
+        font-size: 36px;
+        background-color: white;
+        border-width: 5px;
+    }
+
+    .header {
+        padding-left: 100px;
+        font-family: "Gazpacho";
+        font-size: 56px;
+        font-weight: 700;
+        position: relative;
+        top: -350px;
+    }
+
+    .cards {
+
+    }
+
+    .c
+
+    .barredow {
+        width: 389px;
+    }
+
+    .horselit {
+        width: 389px;
+    }
